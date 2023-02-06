@@ -1,4 +1,3 @@
-;; The avl code is stealed from https://github.com/mordae/racket-avl
 (require racket/generator
          racket/contract
          racket/match)
